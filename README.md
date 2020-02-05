@@ -1,1 +1,1 @@
-# OCR-neural-networks-
+Implemention of the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
